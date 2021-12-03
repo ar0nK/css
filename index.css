@@ -1,0 +1,20 @@
+<html>  
+<head>  
+  <title>CSS példa</title>  
+  <style type="text/css"><!--  
+  h1 { font-size: 20px; color: #a00000; }  
+  p { font-size: 12px; color: #00a000; }  
+  .fontos { color: #ff0000; }  
+  --></style>  
+</head>  
+<body>  
+<h1>A cserebogarak halhatatlanságáról</h1>  
+<p class="fontos">A cserebogárnak vannak lábai. Ebből...</p>  
+<p>Minden cserebogárnak van lába...</p>  
+<p class="fontos">A cserebogárnak vannak szárnyai is...</p>  
+<p>A szárnyaival repülni tud...</p>  
+<p>A halhatatlanság azt jelenti, hogy...</p>  
+<h1 class="fontos">FONTOS!</h1>  
+<p class="fontos">A cserebogarak halhatatlansága tehát...</p>  
+</body>  
+</html>  
